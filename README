@@ -1,0 +1,5 @@
+## the script will need **AT MINIMUM** these tweaks:
+## URL = "YOUR URL"
+## PRODUCT_NAME = "YOUR PRODUCT"
+## STORE_NAME = "YOUR STORE"
+## You will also want to changee all the NTFY code to match your URL and TOKEN
